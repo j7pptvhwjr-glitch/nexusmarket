@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls *)",
+      "Bash(head *)",
+      "Bash(grep *)",
+      "Bash(which *)",
+      "Bash(uname *)",
+      "Bash(sw_vers *)",
+      "Bash(system_profiler *)",
+      "Bash(diskutil *)",
+      "WebFetch",
+      "WebSearch",
+      "Read",
+      "Write",
+      "Edit",
+      "ListAgents",
+      "SendMessage",
+      "Skill"
+    ]
+  }
+}
